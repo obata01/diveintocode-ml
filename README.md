@@ -60,5 +60,5 @@
 - <a href="" style="text-decoration: none">Sprint24 - Seq2Seq</a>
 
 ## Term3 エンジニアプロジェクト
-- <a href="グループワーク" style="text-decoration: none"></a>
-- <a href="卒業課題(個人プロジェクト)" style="text-decoration: none">作成中</a>
+- <a href="https://github.com/obata01/groupwork" style="text-decoration: none">グルーワーク</a>
+- <a href="" style="text-decoration: none">卒業課題(個人プロジェクト)　※作成中</a>
