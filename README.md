@@ -57,7 +57,7 @@
 - <a href="https://github.com/obata01/diveintocode-ml/blob/master/kadai/Sprint21/kadai/Sprint21-01_kadai01.ipynb" style="text-decoration: none">Sprint21 - 自然言語処理入門</a>
 - <a href="https://github.com/obata01/diveintocode-ml/blob/master/kadai/Sprint22/kadai/Sprint22-01_kadai01.ipynb" style="text-decoration: none">Sprint22 - 深層学習スクラッチ リカレントニューラルネットワーク</a>
 - <a href="https://github.com/obata01/diveintocode-ml/blob/master/kadai/Sprint23/Sprint23-01_kadai01.ipynb" style="text-decoration: none">Sprint23 - ゲート付きリカレントニューラルネットワーク</a>
-- <a href="" style="text-decoration: none">Sprint24 - Seq2Seq</a>
+- <a href="https://github.com/obata01/diveintocode-ml/blob/master/kadai/Sprint24/Sprint24-01_kadai01.ipynb" style="text-decoration: none">Sprint24 - Seq2Seq</a>
 
 ## Term3 エンジニアプロジェクト
 - <a href="https://github.com/obata01/groupwork" style="text-decoration: none">グルーワーク</a>
