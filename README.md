@@ -1,7 +1,7 @@
 # DIVE INTO CODE機械学習コース
 
 ## 事前学習
-- *Week1 Python入門*
+- Week1 Python入門
   - <a href="https://github.com/obata01/diveintocode-ml/blob/master/kadai/week01/week1_kadai01.ipynb" style="text-decoration: none">Pythonを使ってみよう</a>
   - <a href="https://github.com/obata01/diveintocode-ml/blob/master/kadai/week01/week1-02_kadai01.ipynb" style="text-decoration: none">曽呂利新左衛門問題</a>
   - <a href="https://github.com/obata01/diveintocode-ml/blob/master/kadai/week01/week1-02_kadai02.ipynb" style="text-decoration: none">何回折ったら富士山を越えるか問題</a>
@@ -61,4 +61,4 @@
 
 ## Term3 エンジニアプロジェクト
 - <a href="https://github.com/obata01/groupwork" style="text-decoration: none">グルーワーク</a>
-- <a href="" style="text-decoration: none">卒業課題(個人プロジェクト)　※作成中</a>
+- <a href="https://github.com/obata01/dic_project" style="text-decoration: none">卒業課題(個人プロジェクト)</a>
